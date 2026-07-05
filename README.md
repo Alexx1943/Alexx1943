@@ -1,8 +1,8 @@
-# Olá! Eu sou o Alex Tavares 👋
+# 👋 Olá! Eu sou Alex Tavares
 
-- 💻 Hoje busco uma oportunidade como desenvolvedor back-end
-- 📖 Java, Spring e Dados
-- 🚀 Focado em evoluir como desenvolvedor
+- 💻 Desenvolvedor Backend
+- ☕ Java | 🌱 Spring | 🔍 Information Retrieval
+- 🚀 Focado em construir aplicações escaláveis e confiáveis
 
 ---
 
@@ -10,4 +10,4 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Information Retrieval](https://img.shields.io/badge/Information_Retrieval-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
