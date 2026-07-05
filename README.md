@@ -1,7 +1,7 @@
 # Olá! Eu sou o Alex Tavares 👋
 
 - 💻 Hoje busco uma oportunidade como desenvolvedor back-end
-- 📖 Java e Spring
+- 📖 Java, Spring e Dados
 - 🚀 Focado em evoluir como desenvolvedor
 
 ---
